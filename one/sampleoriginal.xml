@@ -8,6 +8,8 @@
       <Phone>(503) 555-7555</Phone>
       <FullAddress>
         <Address>2732 Baker Blvd.</Address>
+        Line added
+     abcd
         <City>Eugene</City>
         <Region>OR</Region>
         <PostalCode>97403</PostalCode>
