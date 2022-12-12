@@ -125,7 +125,7 @@
       <OrderDate>1997-09-04T00:00:00</OrderDate>
       <RequiredDate>1997-10-02T00:00:00</RequiredDate>
       <ShipInfo ShippedDate="1997-09-10T00:00:00">
-        <ShipVia>1</ShipVia>
+        <ShipVia>1djdj</ShipVia>
         <Freight>57.15</Freight>
         <ShipName>Great Lakes Food Market</ShipName>
         <ShipAddress>2732 Baker Blvd.</ShipAddress>
@@ -168,7 +168,7 @@
     </Order>
     <Order>
       <CustomerID>GREAL</CustomerID>
-      <EmployeeID>3</EmployeeID>
+      <EmployeeID>eddfff3</EmployeeID>
       <OrderDate>1998-03-09T00:00:00</OrderDate>
       <RequiredDate>1998-04-06T00:00:00</RequiredDate>
       <ShipInfo ShippedDate="1998-03-18T00:00:00">
@@ -202,7 +202,7 @@
       <CustomerID>GREAL</CustomerID>
       <EmployeeID>4</EmployeeID>
       <OrderDate>1998-04-22T00:00:00</OrderDate>
-      <RequiredDate>1998-05-20T00:00:00</RequiredDate>
+      <RequiredDate>1905-20T00:00:00</RequiredDate>
       <ShipInfo>
         <ShipVia>3</ShipVia>
         <Freight>18.84</Freight>
@@ -226,7 +226,7 @@
         <ShipAddress>2732 Baker Blvd.</ShipAddress>
         <ShipCity>Eugene</ShipCity>
         <ShipRegion>OR</ShipRegion>
-        <ShipPostalCode>97403</ShipPostalCode>
+        <ShipPostale>97403</ShipPostalCode>
         <ShipCountry>USA</ShipCountry>
       </ShipInfo>
     </Order>
