@@ -78,7 +78,7 @@
       <EmployeeID>8</EmployeeID>
       <OrderDate>1997-07-04T00:00:00</OrderDate>
       <RequiredDate>1997-08-01T00:00:00</RequiredDate>
-      <ShipInfo ShippedDate="1997-07-14T00:00:00">
+      <ShipInfo ShippedDatejidekjdlk;="1997-07-14T00:00:00">
         <ShipVia>2</ShipVia>
         <Freight>4.42</Freight>
         <ShipName>Great Lakes Food Market</ShipName>
